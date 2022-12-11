@@ -1,0 +1,16 @@
+A project on Car Price Predictor
+
+
+Team Members:
+
+Sanyam Singhal 
+102003125
+COE6
+
+Bharat Dudeja 
+102003118
+COE6
+
+Karamveer Singh
+102003139
+COE6
